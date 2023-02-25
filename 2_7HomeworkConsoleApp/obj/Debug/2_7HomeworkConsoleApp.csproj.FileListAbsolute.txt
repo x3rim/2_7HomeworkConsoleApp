@@ -1,0 +1,8 @@
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\bin\Debug\2_7HomeworkConsoleApp.exe.config
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\bin\Debug\2_7HomeworkConsoleApp.exe
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\bin\Debug\2_7HomeworkConsoleApp.pdb
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\obj\Debug\2_7HomeworkConsoleApp.csproj.AssemblyReference.cache
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\obj\Debug\2_7HomeworkConsoleApp.csproj.SuggestedBindingRedirects.cache
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\obj\Debug\2_7HomeworkConsoleApp.csproj.CoreCompileInputs.cache
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\obj\Debug\2_7HomeworkConsoleApp.exe
+F:\Users\lordp\source\repos\2_7HomeworkConsoleApp\2_7HomeworkConsoleApp\obj\Debug\2_7HomeworkConsoleApp.pdb
